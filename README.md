@@ -1,23 +1,16 @@
-# Bishopng
-# Type :7 Days Code Challenge
-+## Andela 7 Days Code Challenge
-+
- ## Project Name: Pixel Art Maker
- 
--### Google Africa Challenge Scholarship - Front-end
-+### Google Africa Challenge Scholarship - Front-End Track
-+
+# Pixel Art Maker Project
 
-+### Brief Description:
-A web application that prompts user to create a grid of squares representing their design, and apply colors using the color picker to those squares to create an HTML, CSS and JavaScript design
- 
-+#### Instructions
-+1. Set the number of grids you want.
-+2. Click submit. A canvas with will be drawn the number of rows and columns you selected.
-+3. To add color, choose a color from the color picker.
-+4. Click on a grid to add color to that grid.
-+5. To add to more than one grid, click and drag across the grids while holding your left mouse button down.
+## Table of Contents
 
- +Homepage: https://awesomebishop.github.io/pixel-art-maker/
--[https://awesomebishop.github.io/pixel-art-maker/]
+* [Instructions](#instructions)
+* [Contributing](#contributing)
 
+## Instructions
+
+To get started, open `designs.js` and start building out the app's functionality.
+
+For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+
+## Contributing
+
+This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
