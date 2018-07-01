@@ -20,7 +20,7 @@ Instructions
 
 +Homepage: https://awesomebishop.github.io/pixel-art-maker/
  
--[https://awesomebishop.github.io/pixel-art-maker/]
+https://awesomebishop.github.io/pixel-art-maker/
 
 Contributing
 
